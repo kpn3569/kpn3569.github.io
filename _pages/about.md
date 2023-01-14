@@ -40,18 +40,18 @@ Teaching Experience
   * 2013, Lecturer
   
 * Computer Programming (BIT175CO)
-  * Graduate course, C-programming basics. In person.
+  * Undergaduate course, C-programming basics. In person.
   * 2014, Lecturer
 
 * Object Oriented Programming in C++ (BIT176CO)
-  * Graduate course, OOPS basics. In person.
+  * Undergraduate course, OOPS basics. In person.
   * 2014,Lecturer
 * Electronics Devices & Circuit (BIT130EC)
   * Undergrduate course, Basic circuit design theory and lab. In person.
   * 2015, Lecturer
 
 * Microprocessor & Assembly Language (BIT272CO)
-  * Undergrduate course, Data mining basics, In person
+  * Undergrduate course, In person
   * 2016,Lecturer
 
 * 	Numerical Methods (BIT280CO)
