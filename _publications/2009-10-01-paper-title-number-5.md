@@ -7,3 +7,8 @@ date: 2019-11-11
 venue: ' International Conference on Automated Software Engineering (ASE) '
 citation: 'Neupane, Krishna,  International Conference on Automated Software Engineering (ASE) 2019'
 ---
+paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8UHcQU0AAAAJ&citation_for_view=8UHcQU0AAAAJ:u5HHmVD_uO8C'
+citation: 'Neupane, Krishna,  International Conference on Automated Software Engineering (ASE) 2019'
+---
+
+[Download paper here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8UHcQU0AAAAJ&citation_for_view=8UHcQU0AAAAJ:u5HHmVD_uO8C)
