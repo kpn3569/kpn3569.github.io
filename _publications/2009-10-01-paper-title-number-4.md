@@ -1,7 +1,7 @@
 ---
 title: "EmoD: An end-to-end approach for investigating emotion dynamics in software development"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-4
+permalink: /publication/2009-10-01-paper-title-number-4
 excerpt: 'Emotions are an integral part of human nature.
 Emotion awareness is critical to any form of interpersonal
 communication and collaboration, including these in the software
