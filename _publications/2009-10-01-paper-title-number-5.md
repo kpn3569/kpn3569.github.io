@@ -2,7 +2,7 @@
 title: "An approach for investigating emotion dynamics in software development"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-5
-excerpt: 'Emotion awareness is critical to interpersonal communication, including that in software development. The SE community has studied emotion in software development using isolated emotion states but it has not considered the dynamic nature of emotion.To investigate the emotion dynamics, SE community needs an effective approach. In this paper, we propose such an approach which can automatically collect project teams' communication records, identify the emotions and their intensities in them, model the emotion dynamics into time series, and provide efficient data management.'
+excerpt: 'Emotion awareness is critical to interpersonal communication, including that in software development. The SE community has studied emotion in software development using isolated emotion states but it has not considered the dynamic nature of emotion.To investigate the emotion dynamics, SE community needs an effective approach. In this paper, we propose such an approach which can automatically collect project teams communication records, identify the emotions and their intensities in them, model the emotion dynamics into time series, and provide efficient data management.'
 date: 2019-11-11
 venue: ' International Conference on Automated Software Engineering (ASE) '
 citation: 'Neupane, Krishna,  International Conference on Automated Software Engineering (ASE) 2019'
